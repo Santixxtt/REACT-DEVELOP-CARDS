@@ -4,7 +4,7 @@ import App from './App'
 import './index.css'
 
 createRoot(document.getElementById('root')).render(
-  <BrowserRouter basename="/React-develop-Card">
+  <BrowserRouter basename="/REACT-DEVELOP-CARDS">
     <App />
   </BrowserRouter>
 )
